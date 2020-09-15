@@ -23384,8 +23384,8 @@ section.outside-app .courses-container .courses .course .course-info h1 {
 	color: #0075b4
 }
 
-.courses-container .courses .course .course-info .course-title {
-    color: #ff0fde !important;
+span.course-title {
+    color: aquamarine !important;
 }
 
 .courses-container .courses .course .course-info .course-date {
